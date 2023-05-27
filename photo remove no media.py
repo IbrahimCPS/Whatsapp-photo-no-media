@@ -1,5 +1,5 @@
 try:
-    file = open("New Text Document.txt", "r")
+    file = open("fileNames.txt", "r")
     new_file = open("New_file.txt", "w").write("")
     Done_file = open("New_file.txt", "a")
     
